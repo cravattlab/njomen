@@ -1,1 +1,7 @@
-# njomen
+# Abstract
+Covalent chemistry is a versatile approach for expanding the ligandability of the human proteome. Activity-based protein profiling (ABPP) can infer the specific residues modified by electrophilic compounds through competition with broadly reactive probes. The extent to which such residue-directed platforms, however, fully assess the protein targets of electrophilic compounds in cells remains unclear. Here, we evaluate a complementary protein-directed ABPP method that identifies proteins showing stereoselective reactivity with alkynylated, chiral electrophilic compounds—termed stereoprobes. Integration of protein- and cysteine-directed data from cancer cells treated with tryptoline acrylamide stereoprobes revealed generally well-correlated ligandability maps and highlighted features, such as protein size and the proteotypicity of cysteine-containing peptides, that explain gaps in each ABPP platform. In total, we identified stereoprobe binding events for >300 structurally and functionally diverse proteins, including compounds that stereoselectively and site-specifically disrupt MAD2L1BP interactions with the spindle assembly checkpoint complex leading to delayed mitotic exit in cancer cells. 
+# Contents
+This repository contains code to generate Figure 3h and Extended Data Figure 4g in Njomen et al. "Multi-Tiered Chemical Proteomic Maps of Tryptoline Acrylamide-Protein Interactions in Cancer Cells" (2024).
+# References
+1. Dodder, N. OrgMassSpecR: Organic Mass Spectrometry. https://CRAN.R-project.org/package=OrgMassSpecR
+2. Serrano, G.;  Guruceaga, E.; Segura, V., DeepMSPeptide: peptide detectability prediction using deep learning. Bioinformatics 2020, 36 (4), 1279-1280
