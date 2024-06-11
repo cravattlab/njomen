@@ -3,5 +3,5 @@ Covalent chemistry is a versatile approach for expanding the ligandability of th
 # Contents
 This repository contains code to generate Figure 3h and Extended Data Figure 4g in Njomen et al. "Multi-Tiered Chemical Proteomic Maps of Tryptoline Acrylamide-Protein Interactions in Cancer Cells" (2024).
 # References
-1. Dodder, N. OrgMassSpecR: Organic Mass Spectrometry. https://CRAN.R-project.org/package=OrgMassSpecR
+1. Dodder, N., OrgMassSpecR: Organic Mass Spectrometry. https://CRAN.R-project.org/package=OrgMassSpecR
 2. Serrano, G.;  Guruceaga, E.; Segura, V., DeepMSPeptide: peptide detectability prediction using deep learning. Bioinformatics 2020, 36 (4), 1279-1280
